@@ -1,0 +1,171 @@
+Dependencies for Project '314DataLoger', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\main.c)(0x630C9B2E)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\clock.c)(0x630B4A0B)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\clock.o --omf_browse .\objects\clock.crf --depend .\objects\clock.d)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\delay.c)(0x630DC104)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\display.c)(0x630C650D)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\display.o --omf_browse .\objects\display.crf --depend .\objects\display.d)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\power.c)(0x630C94DF)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\power.o --omf_browse .\objects\power.crf --depend .\objects\power.d)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\serial.c)(0x630C629D)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\serial.o --omf_browse .\objects\serial.crf --depend .\objects\serial.d)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\softI2c.c)(0x630C8FFC)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\softi2c.o --omf_browse .\objects\softi2c.crf --depend .\objects\softi2c.d)
+I (.\inc\softI2c.h)(0x630C88D5)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\w25q32.h)(0x630C9C31)
+F (.\src\w25q32.c)(0x630C9926)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\w25q32.o --omf_browse .\objects\w25q32.crf --depend .\objects\w25q32.d)
+I (.\inc\w25q32.h)(0x630C9C31)
+I (.\inc\main.h)(0x630C98C9)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBAB16)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBAB1A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBAB1A)
+I (.\inc\clock.h)(0x6309D034)
+I (.\inc\delay.h)(0x63086230)
+I (.\inc\display.h)(0x630C650D)
+I (.\inc\power.h)(0x630C9BBB)
+I (.\inc\serial.h)(0x630C6279)
+I (.\inc\softI2c.h)(0x630C88D5)
+F (RTE\Device\STM32F030C8Tx\startup_stm32f030x8.s)(0x5979409E)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32F030x8 SETA 1"--list .\listings\startup_stm32f030x8.lst --xref -o .\objects\startup_stm32f030x8.o --depend .\objects\startup_stm32f030x8.d)
+F (RTE\Device\STM32F030C8Tx\system_stm32f0xx.c)(0x5979409E)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\inc -I .\src-I.\RTE\_Target_1-IC:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F030x8-o .\objects\system_stm32f0xx.o --omf_browse .\objects\system_stm32f0xx.crf --depend .\objects\system_stm32f0xx.d)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x8.h)(0x5979409E)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0.h)(0x5C8C32E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBAB1A)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97E734)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C9020C4)
+I (C:\Users\Lenov0\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5979409E)
