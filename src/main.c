@@ -14,6 +14,7 @@ int main(void){
 	w25q32SectorErase(0x00);
 	w25q32WriteByte(0x00,0x55);
 	data=w25q32ReadDataByte(0x00);
+	delay_ms(11);
 	while(1){
 
 	}
